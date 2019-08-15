@@ -1,0 +1,19 @@
+{
+  "name": "moneyfish",
+  "version": "1.0.0",
+  "description": "Gets financial data from Aquarium for a given month and year",
+  "main": "moneyfish.js",
+  "scripts": {
+    "test": "node moneyfish.js"
+  },
+  "keywords": [
+    "Aquarium"
+  ],
+  "author": "Eric Klavins",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^3.0.2",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
