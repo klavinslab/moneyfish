@@ -3,6 +3,7 @@
 ## Installation
 
     git clone https://github.com/klavinslab/moneyfish.git
+    cd moneyfish
     npm install
 
 ## Usage
