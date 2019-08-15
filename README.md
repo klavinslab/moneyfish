@@ -3,12 +3,6 @@
 ## Installation
 
     git clone https://github.com/klavinslab/moneyfish.git
-    cd moneyfish
-    git clone https://github.com/klavinslab/gofish.git
-    cd gofish
-    npm install
-    gofish yourgithubusername yourgithubpassword
-    cd ..
     npm install
 
 ## Usage
