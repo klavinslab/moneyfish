@@ -12,6 +12,11 @@
 
 Both month and year should be numerical (e.g. 5 and 2019 for May 2019). 
 
+## Building binares
+
+    npm i pkg -g
+    pkg .
+
 ## Using the Windows binary
 
 1. Go to 
