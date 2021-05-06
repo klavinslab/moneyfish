@@ -16,6 +16,6 @@
     "extend": "^3.0.2",
     "request": "^2.88.0",
     "jquery": "latest",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
